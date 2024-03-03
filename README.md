@@ -4,7 +4,7 @@
 ```
 conda create --name main-ds py311 python=3.11.8
 conda activate py311
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+pip install pandas numpy matplotlib seaborn streamlit babel
 ```
 
 ## Run steamlit app
