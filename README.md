@@ -14,3 +14,4 @@ streamlit run proyek_analisis_data.py
 
 ## URL Streamlit App
 ```
+https://projectdicoding-zcvoxmiycg8ck9p7hgdc5t.streamlit.app/
